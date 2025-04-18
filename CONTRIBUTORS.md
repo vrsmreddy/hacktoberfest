@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rama Satyanarayana Murthy Reddy Velagala](https://github.com/vrsmreddy)  
+- Place: Gainesville, FL, USA (Willing to Relocate)  
+- Bio: Full Stack Developer | ML & DevOps Enthusiast | Cloud, Code & Coffee 
+- GitHub: [vrsmreddy](https://github.com/vrsmreddy)
